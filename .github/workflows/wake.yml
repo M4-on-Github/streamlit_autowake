@@ -24,7 +24,3 @@ jobs:
 
       - name: Run Selenium script
         run: python main.py
-At the base of your repository, add a requirements.txt file with the following contents:
-
-selenium
-webdriver-manager
